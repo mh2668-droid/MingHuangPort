@@ -1,2 +1,2 @@
-# MingHuangPort
-Ming Huang's Portfolio
+# Welcome to Ming Huang's Portfolio
+
