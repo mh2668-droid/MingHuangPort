@@ -101,7 +101,6 @@
     <header>
       <h1>Ming Huang</h1>
       <div class="subtitle">Mechanical Engineering & Robotics</div>
-      <div class="tagline">Engineering systems that matter.</div>
     </header>
 
     <section class="about">
@@ -111,7 +110,8 @@
 
         <p>
           I’m currently an M.S. student at
-          <a href="https://www.cornell.edu" target="_blank" rel="noreferrer">Cornell University</a>,
+          <a href="https://www.cornell.edu" target="_blank" rel="noreferrer">Cornell University</a> 
+          advised by <a href="https://cei.ece.cornell.edu" target="_blank" rel="noreferrer">Prof. Kirstin H. Petersen</a>
           focusing on mechanical engineering and robotics. I got into engineering by building things as a kid and being drawn to
           robots and medical devices that actually do something in the real world.
         </p>
