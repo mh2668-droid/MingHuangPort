@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Ming Huang's Portfolio
 <section style="display:flex; gap:32px; align-items:center; margin-bottom:40px;">
   <div style="flex:2;">
@@ -17,3 +18,7 @@
     <img src="assets/me.jpg" style="width:100%; max-width:260px; border-radius:12px;">
   </div>
 </section>
+=======
+# Ming Huang
+# Mechanical Engineering Portfolio
+>>>>>>> 2ae632d (Added)
