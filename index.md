@@ -117,9 +117,9 @@
         </p>
 
         <p>
-          I enjoy hands-on, startup-style work, especially mechanical design, CAD, prototyping, and testing, and thinking at the
-          system level about how everything fits together. I like projects that are hard, open-ended, and a little messy, where
-          you have to iterate, debug, and make tradeoffs to get something working.
+          I enjoy hands-on, startup-style work, especially mechanical design, Robotics prototyping, testing, and thinking at the
+          system level about how everything fits together. I like projects that are hard, open-ended, and messy, where
+          you have to brainstorm, iterate, debug, and make tradeoffs to get something working.
         </p>
 
         <p>
