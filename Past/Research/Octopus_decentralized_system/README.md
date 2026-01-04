@@ -23,4 +23,4 @@ Using high-density electrophysiology recordings, we examined whether repeated st
 This work contributes to understanding decentralized neural systems and has implications for neuroscience, adaptive robotics, and biologically inspired control architectures.
 
 ## Poster
-<img src="oct.png" width="700"/>
+<img src="oct.png" width="900"/>

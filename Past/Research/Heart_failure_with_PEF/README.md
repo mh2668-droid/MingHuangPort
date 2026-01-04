@@ -24,4 +24,4 @@ The study combines ex vivo swine heart experiments with a finite element computa
 This work provides mechanistic insight into HFpEF pathophysiology and highlights GLS as a sensitive indicator of subclinical myocardial dysfunction beyond traditional ejection fraction metrics.
 
 ## Poster
-<img src="heart.png" width="700"/>
+<img src="heart.png" width="900"/>
