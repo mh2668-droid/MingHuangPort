@@ -14,4 +14,4 @@ Redesigned the nose plate of a Magliner hand truck to reduce user effort during 
 - Delivered a modular, backward-compatible design meeting Magline’s 500 lb load requirement
 
 ## Poster
-<img src="Poster.png" width="700"/>
+<img src="Poster.png" width="900"/>
