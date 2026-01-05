@@ -2,7 +2,9 @@
 
 **Research Project**  
 
-Publication: Using speech recognition to analyze the physical condition of the elderly and its application in telemedicine, . International Core Journal of Engineering, 7(12), 619–626. DOI:10.6919/ICJE.202112_7(12).0086
+Publication: Using speech recognition to analyze the physical condition of the elderly and its application in telemedicine, 
+
+International Core Journal of Engineering, 7(12), 619–626. DOI:10.6919/ICJE.202112_7(12).0086
 
 **Abstracts** 
 
