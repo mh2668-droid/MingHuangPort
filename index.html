@@ -87,28 +87,6 @@
       .card{ grid-column:span 6; }
       .about{ padding:22px; }
     }
-    .subgrid {
-      display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 18px;
-      margin-top: 14px;
-    }
-
-    .subcard {
-      background: rgba(255,255,255,0.04);
-      border: 1px solid rgba(255,255,255,0.10);
-      border-radius: 14px;
-      padding: 16px;
-    }
-
-    @media (max-width: 800px) {
-      .subgrid { grid-template-columns: 1fr; }
-    }
-
-
-
-
-    
     .card h3{ margin:0 0 6px; font-size:16px; }
     .card p{ margin:0 0 10px; color:var(--muted); }
     .tags{ list-style:none; padding:0; margin:0 0 10px; display:flex; flex-wrap:wrap; gap:8px; }
@@ -206,42 +184,40 @@
       <h2>Projects & Research</h2>
       <div class="grid">
 
-
+        
         <div class="card">
           <h3>Current Projects</h3>
-      
-          <div class="subgrid">
-            <div class="subcard">
-              <p>Designing and building an autonomous aquatic robot for invasive vegetation management.</p>
-              <ul class="tags">
-                <li>Robotics</li>
-                <li>Autonomous Systems</li>
-                <li>Prototyping</li>
-              </ul>
-              <div class="cta">
-                <a href="Current/autonomous%20aquatic%20robot%20/">View Project</a>
-              </div>
-            </div>
-      
-            <div class="subcard">
-              <p>Designing and building a fast autonomous robot for systems-level robotics experiments.</p>
-              <ul class="tags">
-                <li>Embedded Systems</li>
-                <li>Control</li>
-                <li>Sensing</li>
-                <li>Hardware Integration</li>
-              </ul>
-              <div class="cta">
-                <a href="https://mh2668-droid.github.io/FastRobots/" target="_blank" rel="noreferrer">
-                  View Course Work
-                </a>
-              </div>
-            </div>
+          <p>
+            Designing and building an autonomous Aquatic Robot for Invasive Vegetation Management
+          </p>
+          <ul class="tags">
+            <li>Robotics R&D</li>
+            <li>Autonomous System</li>
+            <li>Prototyping</li>
+          </ul>
+          <div class="cta">
+            <a href="Current/autonomous%20aquatic%20robot%20/">View Project</a>
+          </div>
+    
+    
+          <p>
+            Designing and building a fast autonomous robot as part of a systems level robotics course @ Cornell
+          </p>
+          <ul class="tags">
+            <li>Embedded Systems</li>
+            <li>Control</li>
+            <li>Sensing</li>
+            <li>Hardware Integration</li>
+          </ul>
+          <div class="cta">
+            <a href="https://mh2668-droid.github.io/FastRobots/" target="_blank" rel="noreferrer">
+              View Course Work
+            </a>
           </div>
         </div>
-      
-        <!-- Past projects section stays as-is below -->
-      </section>
+        
+    
+
 
         <div class="card">
           <h3>Past Projects</h3>
