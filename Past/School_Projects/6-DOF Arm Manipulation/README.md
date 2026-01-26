@@ -23,3 +23,5 @@ This is a complete manipulation pipeline, not just end-effector pose reaching.
 
 ## Demo
 ![6_DOF Demo](arm.gif)
+
+# Code available upon request
