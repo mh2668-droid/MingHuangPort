@@ -21,3 +21,5 @@ Planning is performed in a static environment with collision checking against kn
 
 ## Demo
 ![Autonomous Navigation Demo](car.gif)
+
+### Code available upon request.

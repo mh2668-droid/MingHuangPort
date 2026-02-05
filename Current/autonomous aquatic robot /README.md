@@ -26,8 +26,12 @@ Design decisions prioritize robustness, controllability, and system-level integr
 ## Current Development Focus
 Active work on this project includes:
 
+- Defining the system-level mechanical and functional architecture
 - Integrating an underwater manipulator end-effector for targeted interaction
-- Developing a unified underwater module that coordinates sensing, cutting, pumping, and collection
+- Developing a unified underwater module that coordinates cutting, pumping, and collection
+- Designing for sealing, actuation reliability, and submerged operation robustness
+
+All development is being carried out independently under faculty supervision.
 
 ## Research Context
 - **Lab:** Collective Embodied Intelligence Laboratory  
